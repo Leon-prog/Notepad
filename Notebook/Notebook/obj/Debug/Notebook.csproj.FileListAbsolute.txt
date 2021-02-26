@@ -1,0 +1,11 @@
+C:\Users\админ\Desktop\Notebook\Notebook\bin\Debug\Notebook.exe.config
+C:\Users\админ\Desktop\Notebook\Notebook\bin\Debug\Notebook.exe
+C:\Users\админ\Desktop\Notebook\Notebook\bin\Debug\Notebook.pdb
+C:\Users\админ\Desktop\Notebook\Notebook\obj\Debug\Notebook.csprojAssemblyReference.cache
+C:\Users\админ\Desktop\Notebook\Notebook\obj\Debug\Notebook.Properties.Resources.resources
+C:\Users\админ\Desktop\Notebook\Notebook\obj\Debug\Notebook.csproj.GenerateResource.cache
+C:\Users\админ\Desktop\Notebook\Notebook\obj\Debug\Notebook.csproj.CoreCompileInputs.cache
+C:\Users\админ\Desktop\Notebook\Notebook\obj\Debug\Notebook.exe
+C:\Users\админ\Desktop\Notebook\Notebook\obj\Debug\Notebook.pdb
+C:\Users\админ\Desktop\Notebook\Notebook\obj\Debug\Notebook.Form1.resources
+C:\Users\админ\Desktop\Notebook\Notebook\obj\Debug\Notebook.Form2.resources
