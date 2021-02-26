@@ -1,5 +1,4 @@
-# Project
-My project on c#
+# Notepad on c#
 
 Notepad написанный на языке с#.
 
